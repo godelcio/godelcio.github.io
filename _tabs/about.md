@@ -10,4 +10,4 @@ Even though those activities are quite different, I feel quite happy both playin
 
 Fast forwarding some years, this is 2023 and after many life-changing events, I've decided to move my old blog posts into this Jekyll website and continue blogging.
 
-Finally I want to mention that any views expressed or thoughts are my own, eventually inspired by other good human beings who shared their knowledge, but ultimately all I want to say last is that all this doesn’t represent anyone or anything I’m associated with.
+Finally, I want to mention that any views expressed or thoughts are my own, eventually inspired by other good human beings who shared their knowledge, but ultimately all I want to say last is that all this doesn’t represent anyone or anything I’m associated with.
