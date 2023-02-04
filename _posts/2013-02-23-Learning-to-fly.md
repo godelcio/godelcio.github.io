@@ -2,7 +2,7 @@
 title: Learning to fly
 date: 2013-02-23 12:30
 categories: [Games Dev]
-tags: [games dev,javascript]
+tags: [game dev,javascript]
 ---
 For February’s game submission for [onegameamonth.com](http://onegameamonth.com/ "onegameamonth.com") I tried HTML programing for games with canvas and JavaScript, the code is here: [https://github.com/godelcio/Jumper](https://github.com/godelcio/Jumper)
 

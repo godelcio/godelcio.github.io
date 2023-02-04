@@ -1,8 +1,8 @@
 ---
 title: My first game – Daniel Loves Nuggets
-date: 2013-02-23 12:30
+date: 2013-01-27 12:30
 categories: [Games Dev]
-tags: [games dev,java]
+tags: [game dev,java]
 ---
 My first game ever is here!
 
